@@ -16,8 +16,8 @@ public class Test5Application {
                 boolean isPresent = false;
                 char d = 'z';
                 float m =10.3f;
-		long f = 4502L;
-                booean isSub = true;
+		        long f = 4502L;
+		        char i = 'n';
 		SpringApplication.run(Test5Application.class, args);
 	}
 
