@@ -15,6 +15,7 @@ public class Test5Application {
                 double z = 10.5;
                 float m =10.3f;
 		        long f = 4502L;
+		        char d = 'z';
 
 		SpringApplication.run(Test5Application.class, args);
 	}
