@@ -14,7 +14,8 @@ public class Test5Application {
                 char x = 'a';
                 double z = 10.5;
                 float m =10.3f;
-		        long f = 4502L;
+		long f = 4502L;
+                booean isSub = true;
 
 		SpringApplication.run(Test5Application.class, args);
 	}
