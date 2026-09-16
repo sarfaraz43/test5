@@ -13,10 +13,11 @@ public class Test5Application {
                 int y = 200;
                 char x = 'a';
                 double z = 10.5;
+                boolean isPresent = false;
+                char d = 'z';
                 float m =10.3f;
 		long f = 4502L;
                 booean isSub = true;
-
 		SpringApplication.run(Test5Application.class, args);
 	}
 
